@@ -1,0 +1,4 @@
+ ## First You must install Python 3.6 for secure your python is compatible to google speech recognition
+ ## Second (make the project on Python Enviroment)--OPTIONAL
+ ## Install module python audio  = sudo apt-get install portaudio19-dev python-all-dev python3-all-dev && sudo pip install pyaudio
+ ## Install speech recognition module from google  =  python -m pip3 install SpeechRecognition 
